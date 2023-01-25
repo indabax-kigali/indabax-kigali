@@ -5,9 +5,6 @@ layout: default
 
 ## Call for Papers
 **Important Dates**
-- Submission Deadline - February 03, 2023
-- Acceptance Notification - March 03, 2023
-- Workshop - May 05, 2023
 
 **Submission form:[LINK]
 

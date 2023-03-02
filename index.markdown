@@ -12,15 +12,14 @@ layout: default
 
 | Start time | Topic                                                    |
 | ---------- | -------------------------------------------------------- |
-| 9:00       | xxxxxxxxx                      |
-| 9:10       | xxxxxxxxx                                      |
-| 9:40       | xxxxxxxxx |
-| 10:30      | xxxxxxxxx            |
-| 11:00      | xxxxxxxxx           |
-| 12:00      | xxxxxxxxx                     |
-| 13:30      | xxxxxxxxx                                      |
-| 14:00      | xxxxxxxxx                                  |
-| 15:00      | xxxxxxxxx            |
+| 9:00       | Welcome Keynote                      |
+| 9:10       | Indaba X Rwanda                                      |
+| 9:40       | Indaba X Rwanda |
+| 10:30      | Indaba X Rwanda            |
+| 11:00      | Indaba X Rwanda           |
+| 12:00      | Indaba X Rwanda                     |
+| 13:30      | Indaba X Rwanda                                      |
+| 14:00      | Indaba X Rwanda                                  |
 
 ## Speakers
 

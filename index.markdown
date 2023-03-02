@@ -1,7 +1,8 @@
 ---
 layout: default
 ---
-# IndabaX Kigali - At ICLR 2023
+# IndabaX Rwanda - At ICLR 2023
+
 
 ## Call for Papers
 **Important Dates**

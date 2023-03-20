@@ -1,2 +1,2 @@
 # indabax-kigali
-Indaba X Kigali Website
+Indaba X Rwanda Website

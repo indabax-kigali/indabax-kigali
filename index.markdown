@@ -1,34 +1,22 @@
 ---
 layout: default
 ---
-# IndabaX Rwanda - At ICLR 2023
-
+# IndabaX Rwanda at ICLR 2023
 
 ## Call for Papers
-**Important Dates**
-
-**Submission form:[LINK]
+* Important dates: TBD
 
 ## Schedule
-
-| Start time | Topic                                                    |
-| ---------- | -------------------------------------------------------- |
-| 9:00       | Welcome Keynote                      |
-| 9:10       | Indaba X Rwanda                                      |
-| 9:40       | Indaba X Rwanda |
-| 10:30      | Indaba X Rwanda            |
-| 11:00      | Indaba X Rwanda           |
-| 12:00      | Indaba X Rwanda                     |
-| 13:30      | Indaba X Rwanda                                      |
-| 14:00      | Indaba X Rwanda                                  |
+TBD
 
 ## Speakers
-
+TBD
 
 ## Organizers 
-
+TBD
 ## Sponsors
-
+TBD
       
 ## Contact
-For questions or information about IndabaX Kigali, contact...
+
+For questions or information about IndabaX Rwanda, contact us through [Twitter](https://twitter.com/IndabaXRwanda).

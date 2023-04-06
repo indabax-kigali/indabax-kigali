@@ -39,9 +39,10 @@ TBD
 </style>
 
 <div class="speaker">
-  <img src="https://dummyimage.com/200x200/000/fff" alt="Speaker Name">
-  <h3>Speaker Name</h3>
+  <img src="./speakers/chris.jpg" alt="Speaker Name">
+  <h3> Chris Fourie </h3>
 </div>
+
 <div class="speaker">
   <img src="https://dummyimage.com/200x200/000/fff" alt="Speaker Name">
   <h3>Speaker Name</h3>

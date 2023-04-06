@@ -44,38 +44,28 @@ TBD
 </div>
 
 <div class="speaker">
-  <img src="https://dummyimage.com/200x200/000/fff" alt="Speaker Name">
-  <h3>Speaker Name</h3>
+  <img src="./speakers/vukosi.jpg" alt="Speaker Name">
+  <h3> Vukosi Marivate </h3>
 </div>
+
 <div class="speaker" style="margin-right: 0;">
-  <img src="https://dummyimage.com/200x200/000/fff" alt="Speaker Name">
-  <h3>Speaker Name</h3>
+  <img src="speakers/sam.jpg" alt="Speaker Name">
+  <h3> Samuel Rutunda </h3>
 </div>
 
 <div class="speaker">
-  <img src="https://dummyimage.com/200x200/000/fff" alt="Speaker Name">
-  <h3>Speaker Name</h3>
+  <img src="./speakers/isaac.jpg" alt="Speaker Name">
+  <h3>Isaac Manzi</h3>
+
 </div>
 <div class="speaker">
-  <img src="https://dummyimage.com/200x200/000/fff" alt="Speaker Name">
-  <h3>Speaker Name</h3>
-</div>
-<div class="speaker" style="margin-right: 0;">
-  <img src="https://dummyimage.com/200x200/000/fff" alt="Speaker Name">
-  <h3>Speaker Name</h3>
+  <img src="./speakers/sara.jpg">
+  <h3> Sara Hooker </h3>
 </div>
 
-<div class="speaker">
-  <img src="https://dummyimage.com/200x200/000/fff" alt="Speaker Name">
-  <h3>Speaker Name</h3>
-</div>
-<div class="speaker">
-  <img src="https://dummyimage.com/200x200/000/fff" alt="Speaker Name">
-  <h3>Speaker Name</h3>
-</div>
 <div class="speaker" style="margin-right: 0;">
-  <img src="https://dummyimage.com/200x200/000/fff" alt="Speaker Name">
-  <h3>Speaker Name</h3>
+  <img src="./speakers/kathleen.jpg" alt="Speaker Name">
+  <h3> Kathleen Siminyu </h3>
 </div>
 
 ## Organizers 

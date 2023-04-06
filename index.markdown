@@ -19,61 +19,75 @@ TBD
 
 ## Speakers
 <style>
+.speaker-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
 .speaker {
-  display: inline-block;
   width: 30%;
-  margin: 20px;
+  margin-bottom: 20px;
   text-align: center;
 }
+
 .speaker img {
-  display: block;
-  margin: 0 auto;
   width: 100%;
-  max-width: 200px;
   border-radius: 50%;
+  margin-bottom: 10px;
 }
-.speaker h3 {
-  margin: 10px 0 0 0;
-}
+
 </style>
 
-<div class="speaker">
-  <img src="https://dummyimage.com/200x200/000/fff" alt="Speaker Name">
-  <h3>Speaker Name</h3>
-</div>
-<div class="speaker">
-  <img src="https://dummyimage.com/200x200/000/fff" alt="Speaker Name">
-  <h3>Speaker Name</h3>
-</div>
-<div class="speaker">
-  <img src="https://dummyimage.com/200x200/000/fff" alt="Speaker Name">
-  <h3>Speaker Name</h3>
-</div>
-
-<div class="speaker">
-  <img src="https://dummyimage.com/200x200/000/fff" alt="Speaker Name">
-  <h3>Speaker Name</h3>
-</div>
-<div class="speaker">
-  <img src="https://dummyimage.com/200x200/000/fff" alt="Speaker Name">
-  <h3>Speaker Name</h3>
-</div>
-<div class="speaker">
-  <img src="https://dummyimage.com/200x200/000/fff" alt="Speaker Name">
-  <h3>Speaker Name</h3>
+<div class="speakers-container">
+  <div class="speaker">
+    <img src="https://dummyimage.com/300x300/000/fff" alt="Speaker 1">
+    <h3>Speaker 1</h3>
+  </div>
+  
+  <div class="speaker">
+    <img src="https://dummyimage.com/300x300/000/fff" alt="Speaker 2">
+    <h3>Speaker 2</h3>
+  </div>
+  
+  <div class="speaker">
+    <img src="https://dummyimage.com/300x300/000/fff" alt="Speaker 3">
+    <h3>Speaker 3</h3>
+  </div>
 </div>
 
-<div class="speaker">
-  <img src="https://dummyimage.com/200x200/000/fff" alt="Speaker Name">
-  <h3>Speaker Name</h3>
+<div class="speakers-container">
+  <div class="speaker">
+    <img src="https://dummyimage.com/300x300/000/fff" alt="Speaker 4">
+    <h3>Speaker 4</h3>
+  </div>
+  
+  <div class="speaker">
+    <img src="https://dummyimage.com/300x300/000/fff" alt="Speaker 5">
+    <h3>Speaker 5</h3>
+  </div>
+  
+  <div class="speaker">
+    <img src="https://dummyimage.com/300x300/000/fff" alt="Speaker 6">
+    <h3>Speaker 6</h3>
+  </div>
 </div>
-<div class="speaker">
-  <img src="https://dummyimage.com/200x200/000/fff" alt="Speaker Name">
-  <h3>Speaker Name</h3>
-</div>
-<div class="speaker">
-  <img src="https://dummyimage.com/200x200/000/fff" alt="Speaker Name">
-  <h3>Speaker Name</h3>
+
+<div class="speakers-container">
+  <div class="speaker">
+    <img src="https://dummyimage.com/300x300/000/fff" alt="Speaker 7">
+    <h3>Speaker 7</h3>
+  </div>
+  
+  <div class="speaker">
+    <img src="https://dummyimage.com/300x300/000/fff" alt="Speaker 8">
+    <h3>Speaker 8</h3>
+  </div>
+  
+  <div class="speaker">
+    <img src="https://dummyimage.com/300x300/000/fff" alt="Speaker 9">
+    <h3>Speaker 9</h3>
+  </div>
 </div>
 
 ## Organizers 

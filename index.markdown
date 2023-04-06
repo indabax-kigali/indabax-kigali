@@ -18,7 +18,63 @@ Apply [here](https://docs.google.com/forms/d/e/1FAIpQLSemBiT28abBTC9H_8Q_YoQzesZ
 TBD
 
 ## Speakers
-TBD
+<style>
+.speaker {
+  display: inline-block;
+  width: 30%;
+  margin: 20px;
+  text-align: center;
+}
+.speaker img {
+  display: block;
+  margin: 0 auto;
+  width: 100%;
+  max-width: 200px;
+  border-radius: 50%;
+}
+.speaker h3 {
+  margin: 10px 0 0 0;
+}
+</style>
+
+<div class="speaker">
+  <img src="https://dummyimage.com/200x200/000/fff" alt="Speaker Name">
+  <h3>Speaker Name</h3>
+</div>
+<div class="speaker">
+  <img src="https://dummyimage.com/200x200/000/fff" alt="Speaker Name">
+  <h3>Speaker Name</h3>
+</div>
+<div class="speaker">
+  <img src="https://dummyimage.com/200x200/000/fff" alt="Speaker Name">
+  <h3>Speaker Name</h3>
+</div>
+
+<div class="speaker">
+  <img src="https://dummyimage.com/200x200/000/fff" alt="Speaker Name">
+  <h3>Speaker Name</h3>
+</div>
+<div class="speaker">
+  <img src="https://dummyimage.com/200x200/000/fff" alt="Speaker Name">
+  <h3>Speaker Name</h3>
+</div>
+<div class="speaker">
+  <img src="https://dummyimage.com/200x200/000/fff" alt="Speaker Name">
+  <h3>Speaker Name</h3>
+</div>
+
+<div class="speaker">
+  <img src="https://dummyimage.com/200x200/000/fff" alt="Speaker Name">
+  <h3>Speaker Name</h3>
+</div>
+<div class="speaker">
+  <img src="https://dummyimage.com/200x200/000/fff" alt="Speaker Name">
+  <h3>Speaker Name</h3>
+</div>
+<div class="speaker">
+  <img src="https://dummyimage.com/200x200/000/fff" alt="Speaker Name">
+  <h3>Speaker Name</h3>
+</div>
 
 ## Organizers 
 TBD

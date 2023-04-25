@@ -15,7 +15,23 @@ Applications for attending and presenting research works in IndabaX Rwanda are o
 Apply [here](https://docs.google.com/forms/d/e/1FAIpQLSemBiT28abBTC9H_8Q_YoQzesZtMbrUcaZYAaPudiZHd21hew/viewform)!
 
 ## Schedule
-TBD
+
+| Time | Topic | Speaker |
+|------|-------|---------|
+| Thu 8:20 am - 8:30 am | Event launch and Opening remarks |  |
+| Thu 8:30 am - 9:30 am| Keynote 1: AI Policy in Africa | Vukosi Marivate |
+| Thu 9:30 am - 10:30 am | The State of Large Language Model Research: Open Opportunities and Challenges | Sara Hooker |
+| Thu 10:30 am - 11:00 am | Coffee Break |  |
+| Thu 11:00 am - 11:50 am | AI in Healthcare | Chris Fourie |
+| Thu 11:50 am - 12:40 pm | NLP for African Languages | Kathleen Siminyu |
+| Thu 12:40 pm - 1:20 pm | AI in Rwanda Panel Discussion |  |
+| Thu 1:10 pm - 2:30 pm | Poster Session |  |
+| Thu 1:20 pm - 2:30 pm | Lunch Break |  |
+| Thu 2:30 pm - 3:10 pm | Building AI systems for Kinyarwanda | Samuel Rutunda |
+| Thu 3:10 pm - 3:40 pm | AI community in Rwanda |
+| Thu 3:40 pm - 4:00 pm | Coffee Break |  |
+| Thu 4:00 pm - 5:30 pm | DeepMind Mentorship Session |
+| Thu 5:30 pm - 6:00 pm | Awards + Closing |
 
 ## Speakers
 
@@ -35,13 +51,17 @@ TBD
 }
 .speaker h3 {
   margin: 10px 0 0 0;
+  color: #ff0000; /* replace with desired color */
 }
+
 </style>
 
 <div class="speaker">
   <img src="./speakers/chris.jpg" alt="Speaker Name">
   <h3> Chris Fourie </h3>
 </div>
+
+<!-- <h3><a href="https://example.com">Speaker Name</a></h3> -->
 
 <div class="speaker">
   <img src="./speakers/vukosi.jpg" alt="Speaker Name">
@@ -56,8 +76,8 @@ TBD
 <div class="speaker">
   <img src="./speakers/isaac.jpg" alt="Speaker Name">
   <h3>Isaac Manzi</h3>
-
 </div>
+
 <div class="speaker">
   <img src="./speakers/sara.jpg">
   <h3> Sara Hooker </h3>

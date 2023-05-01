@@ -56,6 +56,7 @@ Apply [here](https://docs.google.com/forms/d/e/1FAIpQLSemBiT28abBTC9H_8Q_YoQzesZ
 
 .sponsor-logos {
   display: flex;
+  justify-content: center;
   align-items: center;
   padding: 10px;
   background-color: #000000;
@@ -107,8 +108,8 @@ TBD
 ## Sponsors
 
 <div class="sponsor-logos">
-  <img src="./static/bai-logo.png" alt="Black in AI" width="150" height="50">
-  <img src="./static/footer-logo.png" alt="Deep Learning Indaba" width="150" height="50">
+  <img src="./static/bai-logo.png" alt="Black in AI" width="150" height="100">
+  <img src="./static/footer-logo.png" alt="Deep Learning Indaba" width="150" height="100">
 </div>
 
       

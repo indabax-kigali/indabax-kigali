@@ -40,7 +40,6 @@ Apply [here](https://docs.google.com/forms/d/e/1FAIpQLSemBiT28abBTC9H_8Q_YoQzesZ
   display: inline-block;
   width: 30%;
   margin: 20px 3% 20px 0;
-  background-color: #000000;
   text-align: center;
 }
 .speaker img {
@@ -59,6 +58,7 @@ Apply [here](https://docs.google.com/forms/d/e/1FAIpQLSemBiT28abBTC9H_8Q_YoQzesZ
   display: flex;
   align-items: center;
   padding: 10px;
+  background-color: #000000;
   margin-bottom: 20px;
   text-align: center;
 }

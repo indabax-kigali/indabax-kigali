@@ -8,13 +8,14 @@ layout: default
 The 2024 IndabaX 2024 will be a two days event of tutorials, hackathons, panel discussions, and panel discussions from ML/AI experts from Africa and beyond.
 
 Date: June 21st & 22nd 2024
-Location: TBD
+
+Location: Norrsken House, Kigali
 
 ## Call for Papers and Attendance
 
 Applications for attending and presenting research works in IndabaX Rwanda are open. We encourage completed research, short papers & extended abstracts for posters & highlight presentations representing the Rwandan research community.
 
-Apply [TBD]()!
+Apply [here](https://docs.google.com/forms/d/e/1FAIpQLSdvTvfKS8oYMvzbVEuqfqmTJpczLSjbeOhxPwK93-uHpbE3aA/viewform?usp=send_form)!
 
 ## Schedule
 TBD

@@ -105,7 +105,7 @@ TBD
 <div class="speaker" style="margin-right: 0;">
   <img src="./speakers/kathleen.jpg" alt="Speaker Name">
   <h3> Kathleen Siminyu </h3>
-</div> --> -->
+</div> -->
 
 ## Organizers 
 TBD

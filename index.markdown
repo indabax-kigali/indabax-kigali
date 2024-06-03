@@ -110,11 +110,12 @@ TBD
 ## Organizers 
 TBD
 ## Sponsors
+TBD
 
-<div class="sponsor-logos">
+<!-- <div class="sponsor-logos">
   <img src="./static/bai-logo.png" alt="Black in AI" width="150" height="100">
   <img src="./static/footer-logo.png" alt="Deep Learning Indaba" width="150" height="100">
-</div>
+</div> -->
 
       
 ## Contact

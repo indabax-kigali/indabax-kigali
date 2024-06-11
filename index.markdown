@@ -18,23 +18,31 @@ Applications for attending and presenting research works in IndabaX Rwanda are o
 Apply [here](https://docs.google.com/forms/d/e/1FAIpQLSdvTvfKS8oYMvzbVEuqfqmTJpczLSjbeOhxPwK93-uHpbE3aA/viewform?usp=send_form)!
 
 ## Schedule
-TBD
-<!-- | Time | Topic | Speaker |
-|------|-------|---------|
-| Thu 8:20 am - 8:30 am | Event launch and Opening remarks |  |
-| Thu 8:30 am - 9:30 am| Keynote 1: AI Policy in Africa | Vukosi Marivate |
-| Thu 9:30 am - 10:30 am | The State of Large Language Model Research: Open Opportunities and Challenges | Sara Hooker |
-| Thu 10:30 am - 11:00 am | Coffee Break |  |
-| Thu 11:00 am - 11:50 am | AI in Healthcare | Chris Fourie |
-| Thu 11:50 am - 12:40 pm | NLP for African Languages | Kathleen Siminyu |
-| Thu 12:40 pm - 1:20 pm | AI in Rwanda Panel Discussion |  |
-| Thu 1:10 pm - 2:30 pm | Poster Session |  |
-| Thu 1:20 pm - 2:30 pm | Lunch Break |  |
-| Thu 2:30 pm - 3:10 pm | Building AI systems for Kinyarwanda | Samuel Rutunda |
-| Thu 3:10 pm - 3:40 pm | AI community in Rwanda |
-| Thu 3:40 pm - 4:00 pm | Coffee Break |  |
-| Thu 4:00 pm - 5:30 pm | DeepMind Mentorship Session |
-| Thu 5:30 pm - 6:00 pm | Awards + Closing | -->
+
+| Time                         | Topic                                                        | Speaker                                                                                                                      | Moderator/Facilitator   |
+|:-----------------------------|:-------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------|:------------------------|
+| **Day 1**                    |                                                              |                                                                                                                              |                         |
+| Friday 9:30 am - 9:45 am     | Event launch and opening remarks                             |                                                                                                                              |                         |
+| Friday 9:45 am - 10:45 am    | African AI for Social Good                   | Dr. William Ogallo (Google Research)                                                                                                  |                         |
+| Friday 10:45 am - 11:45 am   | Panel discussion: State of AI in Rwanda                      | Alain (C4IR),  Dr. Damien (UR), Jeremy Chienda,Irembo(Irembo), Samuel Rutunda (Digital Umuganda)  | Kevin Sebineza                  |
+| Friday 11:45 am - 12:15 pm   | Hackathon Launch + Potential Zindi Introduction                                    |                                                                                                                              |                         |
+| Friday 12:15 pm - 1:30 pm    | Lunch Break                                                  |                                                                                                                              |                         |
+| Friday 1:45 pm - 4:45 pm      | Worshops                                                                                 | Generative AI, Earth observation, ML in Health, ML Introduction                        |
+| Friday 4:45 pm - 5:00 pm      | First day closing remarks                                                                                                                             |                         |
+| **Day 2**                    |                                                              |                                                                                                                              |                         |
+| Saturday 8:30 am - 10:30 am   | Project Presentation of Hackathon                                     | RAG Presentation and Deliberation Judges: Sangwa Rwabuhihi, Emmanuel Ndayisaba, Sammy Gasana,                                                                                                                           |                         |
+| Saturday 10:30 an - 10:50 am  | Poster presentations (Judging)                                    |                                                                                       |                         |
+| Saturday 10:30 am - 10:50 am | Coffee Break    |                                                                      |                         |
+| Saturday 10:50 am - 12:15 pm                                                  | Building AI startups in Africa                                                                                                                              | Darlignton Akogo (minoHealth) & Abdoulaye Diack (Google Research)                        | Moayad Elamin
+| Saturday 12:15 PM - 1:30 PM   | Impact project exhibition                          | 1. Pindo 2. Digital Umuganda and Fairforward 3. Digital Umuganda and C4IR                                                                                         |                         |
+| Saturday 2:00 PM - 2:15 PM   | IndabaX Retrospective                                               |                   |
+| Saturday 2:15 PM - 3:15 PM   | Panel discussion: AI Policies relevant to Sub-Saharan Africa                                   | Joris Cyizere (C4IR), Esther Kunda(MINICT), Ridwan Oloyede ()                                                  |  Mastel Mahoro                       |
+| Saturday 3:15 PM - 4:15 PM   | Invited talk: LLM in health                                        | Professor Mary-Anne Hartley (EPFL&Yale)                                                                                                                        |                         |
+| Saturday 4:30 PM - 4:45 PM   | Guest of honor speech             |                      |                         |
+| Saturday 4:45 PM - 5:30 PM                             |  Award Winners Presentations and closing ceremony                   |  Winners for Poster Presentations, Beginner Hackathon, Flood Mapping Hackathon, RAG Challenge                                                                                                                             |                         |
+| Saturday 5:30 PM - 5:40 PM   | IndabaX Rwanda Picture                            |                                                                                                                              |                         |
+
+
 
 ## Speakers
 TBD

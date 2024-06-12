@@ -11,41 +11,47 @@ Date: June 21st & 22nd 2024
 
 Location: Norrsken House, Kigali
 
-## Call for Papers and Attendance
-
-Applications for attending and presenting research works in IndabaX Rwanda are open. We encourage completed research, short papers & extended abstracts for posters & highlight presentations representing the Rwandan research community.
-
-Apply [here](https://docs.google.com/forms/d/e/1FAIpQLSdvTvfKS8oYMvzbVEuqfqmTJpczLSjbeOhxPwK93-uHpbE3aA/viewform?usp=send_form)!
-
 ## Schedule
 
-| Time                         | Topic                                                        | Speaker                                                                                                                      | Moderator/Facilitator   |
-|:-----------------------------|:-------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------|:------------------------|
+| Time                         | Topic                                                        | Speaker                                                                                                                      |
+|:-----------------------------|:-------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------|
 | **Day 1**                    |                                                              |                                                                                                                              |                         |
 | Friday 9:30 am - 9:45 am     | Event launch and opening remarks                             |                                                                                                                              |                         |
 | Friday 9:45 am - 10:45 am    | African AI for Social Good                   |                                                                                                   |                         |
-| Friday 10:45 am - 11:45 am   | Panel discussion: State of AI in Rwanda                      | Alain Ndayishimiye ,  Dr. Damien Hanyurwimfura , Jeremy Chienda , Samuel Rutunda  | Kevin Sebineza                  |
+| Friday 10:45 am - 11:45 am   | Panel discussion: State of AI in Rwanda                      | Alain Ndayishimiye ,  Dr. Damien Hanyurwimfura , Jeremy Chienda , Samuel Rutunda  |
 | Friday 11:45 am - 12:15 pm   | Hackathon Launch + Potential Zindi Introduction                                    |                                                                                                                              |                         |
-| Friday 12:15 pm - 1:30 pm    | Lunch Break                                                  |                                                                                                                              |                         |
+| Friday 12:15 pm - 1:30 pm    | Lunch Break                                                  |                                                                                                                              |
 | Friday 1:45 pm - 4:45 pm      | Worshops                                                                                 | Generative AI, Earth observation, ML in Health, ML Introduction                        |
 | Friday 4:45 pm - 5:00 pm      | First day closing remarks                                                                                                                             |                         |
 | **Day 2**                    |                                                              |                                                                                                                              |                         |
 | Saturday 8:30 am - 10:30 am   | Project Presentation of Hackathon                                     | RAG Presentation and Deliberation                                                                                                                           |                         |
 | Saturday 10:30 an - 10:50 am  | Poster presentations (Judging)                                    |                                                                                       |                         |
 | Saturday 10:30 am - 10:50 am | Coffee Break    |                                                                      |                         |
-| Saturday 10:50 am - 12:15 pm                                                  | Building AI startups in Africa                                                                                                                              | Darlignton Akogo & Abdoulaye Diack                         | Moayad Elamin
+| Saturday 10:50 am - 12:15 pm                                                  | Building AI startups in Africa                                                                                                                              | Darlignton Akogo & Abdoulaye Diack                         | 
 | Saturday 12:15 PM - 1:30 PM   | Impact project exhibition                          |                                                                                          |                         |
 | Saturday 2:00 PM - 2:15 PM   | IndabaX Retrospective                                               |                   |
-| Saturday 2:15 PM - 3:15 PM   | Panel discussion: AI Policies relevant to Sub-Saharan Africa                                   | Joris Cyizere , Esther Kunda, Ridwan Oloyede                                                  |  Mastel Mahoro                       |
+| Saturday 2:15 PM - 3:15 PM   | Panel discussion: AI Policies relevant to Sub-Saharan Africa                                   | Joris Cyizere , Esther Kunda, Ridwan Oloyede                                                  |
 | Saturday 3:15 PM - 4:15 PM   | Invited talk: LLM in health                                        | Professor Mary-Anne Hartley                                                                                                                        |                         |
 | Saturday 4:30 PM - 4:45 PM   | Guest of honor speech             |                      |                         |
 | Saturday 4:45 PM - 5:30 PM                             |  Award Winners Presentations and closing ceremony                   |                                                                                                                               |                         |
-| Saturday 5:30 PM - 5:40 PM   | IndabaX Rwanda Picture                            |                                                                                                                              |                         |
+| Saturday 5:30 PM - 5:40 PM   | IndabaX Rwanda Picture                            |                                                                                                                              |
 
 
 
 ## Speakers
-TBD
+- Abdoulaye Diack (Google research)
+- Darlignton Akogo (MinoHealth)
+- Esther Kunda (Ministry of ICT)
+- Joris Cyizere (C4IR)
+-  Dr. Damien Hanyurwimfura (UR ACE-IOT)
+- Ridwan Oloyede (Certa Foundation)
+- Professor Mary-Anne Hartley (Yale University |EPFL)
+- Alain Ndayishimiye  (C4IR)
+- Jeremy Chienda (Irembo)
+- Samuel Rutunda (Digital Umuganda)
+- Antoine Nzeyimana (KinNLP)
+- Yonas Chanie (Pindo)
+- Sammy Gasana (Artemis)
 
 <style>
 .speaker {
@@ -115,16 +121,18 @@ TBD
   <h3> Kathleen Siminyu </h3>
 </div> -->
 
-## Organizers 
-TBD
 ## Sponsors
-TBD
 
-<!-- <div class="sponsor-logos">
-  <img src="./static/bai-logo.png" alt="Black in AI" width="150" height="100">
-  <img src="./static/footer-logo.png" alt="Deep Learning Indaba" width="150" height="100">
+
+<<div class="sponsor-logos">
+  <img src="./static/DU.png" alt="Digital Umuganda" width="150" height="100">
+  <img src="./static/GIZ.jpeg" alt="Digital transformation Center" width="150" height="100">
+  <img src="./static/GIZ.jpeg" alt="Fair Forward" width="150" height="100">
+  <img src="./static/C4IR.jpeg" alt="Center for the forth industrial revolution" width="150" height="100">
 </div> -->
+## Call for Papers and Attendance
 
+Applications have closed
       
 ## Contact
 

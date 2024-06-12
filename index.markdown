@@ -45,7 +45,7 @@ Location: Norrsken House, Kigali
 - Joris Cyizere (C4IR)
 -  Dr. Damien Hanyurwimfura (UR ACE-IOT)
 - Ridwan Oloyede (Certa Foundation)
-- Professor Mary-Anne Hartley (Yale University |EPFL)
+- Professor Mary-Anne Hartley (Yale University, EPFL)
 - Alain Ndayishimiye  (C4IR)
 - Jeremy Chienda (Irembo)
 - Samuel Rutunda (Digital Umuganda)

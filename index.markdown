@@ -13,13 +13,13 @@ Location: Norrsken House, Kigali
 
 ## Schedule
 | Time                         | Topic                                                        | Speaker                                                                                      | 
-|:-----------------------------|:-------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------|
-| **Day 1**                    |                                                              |                                                                                                                              |
-| Friday 9:30 am - 9:40 am     | Event launch and opening remarks                             |                                                                                                                              |
-| Friday 9:40 am - 10:40 am    | African AI for Social Good                   | Catherine Wanjiru                                                                                          |
-| Saturday 10:40 am - 11:00 am | Coffee Break                                                 |                                                                                             |
-| Friday 11:00 am - 12:00 am   | Panel discussion: State of AI in Rwanda                      | Alain Ndayishimiye ,  Dr. Damien Hanyurwimfura , Jeremy Chienda , Samuel Rutunda  | 
-| Friday 12:00 am - 12:15 pm   | Hackathon Launch + Potential Zindi Introduction                                    |                                                                                                                              |                         |
+|:-----------------------------|:-------------------------------------------------------------|:------------------------------------------------------------------------------------|
+| **Day 1**                    |                                                              |                                                                                     |
+| Friday 9:30 am - 9:40 am     | Event launch and opening remarks                             |                                                                                     |
+| Friday 9:40 am - 10:40 am    | African AI for Social Good                                   | Catherine Wanjiru                                                                   |
+| Saturday 10:40 am - 11:00 am | Coffee Break                                                 |                                                                                     |
+| Friday 11:00 am - 12:00 am   | Panel discussion: State of AI in Rwanda                      | Alain Ndayishimiye ,  Dr. Damien Hanyurwimfura , Jeremy Chienda , Samuel Rutunda| 
+| Friday 12:00 am - 12:15 pm   | Hackathon Launch + Potential Zindi Introduction              |                                                                                     |
 | Friday 12:15 pm - 1:30 pm    | Lunch Break                                                  |                                                                                             |
 | Friday 1:45 pm - 4:45 pm     | Worshops                                                     | Generative AI, Earth observation, ML in Health, ML Introduction                             |
 | Friday 4:45 pm - 5:00 pm     | First day closing remarks                                    |                                                                                             |

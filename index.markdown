@@ -45,6 +45,7 @@ Location: Norrsken House, Kigali
 - Darlignton Akogo (MinoHealth)
 - Esther Kunda (Ministry of ICT)
 - Joris Cyizere (C4IR)
+- Catherine Wanjiru (IBM)
 -  Dr. Damien Hanyurwimfura (UR ACE-IOT)
 - Ridwan Oloyede (Certa Foundation)
 - Professor Mary-Anne Hartley (Yale University \| EPFL)
@@ -79,7 +80,7 @@ Location: Norrsken House, Kigali
   justify-content: center;
   align-items: center;
   padding: 10px;
-  background-color: #000000;
+  background-color: #FFFFFF;
   margin-bottom: 20px;
   text-align: center;
 }
@@ -126,10 +127,12 @@ Location: Norrsken House, Kigali
 ## Sponsors
 
 <div class="sponsor-logos">
- <p> <img src="./static/DU.png" alt="Digital Umuganda" width="150" height="100"> </p>
- <p> <img src="./static/GIZ.jpeg" alt="Digital transformation Center" width="300" height="100"> 
-     <img src="./static/Fair-forward.jpeg" alt="Fair Forward" width="300" height="100"> </p>
- <p> <img src="./static/C4IR.jpeg" alt="Center for the forth industrial revolution" width="150" height="100"> </p>
+     <img src="./static/GIZ.jpeg" alt="Digital transformation Center" width="300" height="100"> 
+     <img src="./static/Fair-forward.jpeg" alt="Fair Forward" width="300" height="100">
+     <br>
+     <img src="./static/DU.jpg" alt="Digital Umuganda" width="100" height="100">  
+     <br>
+     <img src="./static/C4IR.jpeg" alt="Center for the forth industrial revolution" width="200" height="100"> 
 </div>
 
 ## Call for Papers

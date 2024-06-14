@@ -126,10 +126,10 @@ Location: Norrsken House, Kigali
 ## Sponsors
 
 <div class="sponsor-logos">
-  <img src="./static/DU.png" alt="Digital Umuganda" width="150" height="100">
-  <img src="./static/GIZ.jpeg" alt="Digital transformation Center" width="150" height="100">
-  <img src="./static/Fair-forward.jpeg" alt="Fair Forward" width="150" height="100">
-  <img src="./static/C4IR.jpeg" alt="Center for the forth industrial revolution" width="150" height="100">
+ <p> <img src="./static/DU.png" alt="Digital Umuganda" width="150" height="100"> </p>
+ <p> <img src="./static/GIZ.jpeg" alt="Digital transformation Center" width="300" height="100"> 
+     <img src="./static/Fair-forward.jpeg" alt="Fair Forward" width="300" height="100"> </p>
+ <p> <img src="./static/C4IR.jpeg" alt="Center for the forth industrial revolution" width="150" height="100"> </p>
 </div>
 
 ## Call for Papers

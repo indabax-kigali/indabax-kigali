@@ -12,8 +12,8 @@ Date: June 21st & 22nd 2024
 Location: Norrsken House, Kigali
 
 ## Schedule
-
-Launch + Potential Zindi Introduction              |                                                                                             |
+| Time                         | Topic                                                        | Speaker                                                                                      | 
+|:-----------------------------|:-------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------|
 | Friday 12:15 pm - 1:30 pm    | Lunch Break                                                  |                                                                                             |
 | Friday 1:45 pm - 4:45 pm     | Worshops                                                     | Generative AI, Earth observation, ML in Health, ML Introduction                             |
 | Friday 4:45 pm - 5:00 pm     | First day closing remarks                                    |                                                                                             |
@@ -118,7 +118,7 @@ Launch + Potential Zindi Introduction              |                            
 
 ## Sponsors
 
-<<div class="sponsor-logos">
+<div class="sponsor-logos">
   <img src="./static/DU.png" alt="Digital Umuganda" width="150" height="100">
   <img src="./static/GIZ.jpeg" alt="Digital transformation Center" width="150" height="100">
   <img src="./static/Fair-forward.jpeg" alt="Fair Forward" width="150" height="100">

@@ -355,6 +355,13 @@ ul li {
   margin-top: 0px;
   font-size: 30px;
 }
+
+.site-header .intro .link {
+  color: #fff;
+  margin-top: 0px;
+  font-size: 30px;
+}
+
 .site-header .intro p {
   font-size: 20px;
   margin-bottom: 10px;
